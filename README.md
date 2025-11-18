@@ -1,10 +1,10 @@
 # README
 
 ## Live Deployment  
-Добавьте ссылку на развернутую версию проекта.
+
 
 ## Walkthrough Video  
-Добавьте ссылку на видеообзор, размещённый в Google Drive.
+
 
 ## Technology Stack  
 - React  
